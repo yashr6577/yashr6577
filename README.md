@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Rathod</h1>
 <h3 align="center">A passionate and aspiring Computer Engineering student on a journey to explore the fascinating world of technology.</h3>
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fabhi01-01&psig=AOvVaw0nrL33IwrmWXNGXWkKx_Zm&ust=1753803856377000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiwl7Ly344DFQAAAAAdAAAAABAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashr6577&label=Profile%20views&color=0e75b6&style=flat" alt="yashr6577" /> </p>
 
 - 🔭 I’m currently working on **Vayomitra**
